@@ -3,7 +3,7 @@ name: code chk
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
